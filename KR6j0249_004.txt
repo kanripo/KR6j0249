@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:45.970792
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:40
 #+TITLE: 佛說大乘莊嚴寶王經
 #+PROPERTY: CBETA_ID T20n1050
 #+PROPERTY: ID KR6j0249
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1050
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0249_T_000-0047a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0249_T_004-0059c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 佛說大乘莊嚴寶王經卷第四¶
+佛說大乘莊嚴寶王經卷第四¶
 ¶
 西天中印度惹爛馱囉國密林寺三藏¶
 賜紫沙門臣天息災奉　詔譯¶
